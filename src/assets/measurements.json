@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Body temperature",
+    "value": 36.72,
+    "unit": "celcius",
+    "dateTime": "2021-02-15T16:52:33.875Z"
+  },
+  {
+    "title": "Room temperature",
+    "value": 21.652,
+    "unit": "celcius",
+    "dateTime": "2021-02-15T16:52:33.875Z"
+  }
+]

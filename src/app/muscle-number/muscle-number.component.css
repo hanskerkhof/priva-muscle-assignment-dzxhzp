@@ -1,0 +1,19 @@
+/*  ==========================================================================
+    Muscle number
+    
+    Tip: the styling does not have to be pixel perfect.
+    
+    Colors:
+    - value = #006472
+    - description = #666
+    ========================================================================== */
+
+:host {
+  display: block;
+}
+
+.muscle-number {
+  padding: 12px;
+  background-color: #fff;
+  border-radius: 4px;
+}
